@@ -1,0 +1,26 @@
+<root>
+<Client_Name>MiraeAsset</Client_Name>
+<IP>
+<ip_address>192.168.143.15</ip_address>
+<ip_port>56003</ip_port>
+</IP>
+<License>
+	<address_port>tcp://192.168.143.15:5600</address_port>
+</License>
+<Broker>
+<ord_broker>ORDERC</ord_broker>
+<req_broker>REQUESTC</req_broker>
+<feed_broker>FEEDC</feed_broker>
+</Broker>
+<DisConn>
+<KeepAliveMode>1</KeepAliveMode>
+<KeepAliveIdleTimeout>5</KeepAliveIdleTimeout>
+<ProbeCount>2</ProbeCount>
+<ProbeInterval>5</ProbeInterval>
+<UserTimeout>14990</UserTimeout>
+</DisConn>
+
+<ORDMRGFRML>0</ORDMRGFRML>
+<ORDMRGTIME>1</ORDMRGTIME>
+
+</root>

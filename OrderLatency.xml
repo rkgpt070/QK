@@ -1,0 +1,229 @@
+<root>
+
+ <OrderRemarks>API LOAD TEST</OrderRemarks>
+ <CustomerFirm>C</CustomerFirm>
+ <acOrdSrc>CPPAPI</acOrdSrc>
+ 
+ <!-- Test 2-->
+ <Buy>CAPIINVB</Buy>
+ <Sell>CAPIINVS</Sell>
+ 
+ <!-- Test 3-->
+ <Scrip_Count>10</Scrip_Count>
+ 
+ <TradingSymbol1>WINDMACHIN-EQ</TradingSymbol1>
+ <ExchangeSegment1>NSE</ExchangeSegment1>
+ <Quantity1>1</Quantity1>
+ <Price1>8340</Price1>
+ <Product1>M</Product1>
+ <OrderType1>LMT</OrderType1>
+ 
+ <TradingSymbol2>WORTH-EQ</TradingSymbol2>
+ <ExchangeSegment2>NSE</ExchangeSegment2>
+ <Quantity2>1</Quantity2>
+ <Price2>9500</Price2>
+ <Product2>I</Product2>
+ <OrderType2>LMT</OrderType2>
+ 
+ <TradingSymbol3>YESBANK-EQ</TradingSymbol3>
+ <ExchangeSegment3>NSE</ExchangeSegment3>
+ <Quantity3>1</Quantity3>
+ <Price3>2450</Price3>
+ <Product3>H</Product3>
+ <OrderType3>LMT</OrderType3>
+ 
+ <TradingSymbol4>BAJAJHIND-EQ</TradingSymbol4>
+ <ExchangeSegment4>NSE</ExchangeSegment4>
+ <Quantity4>1</Quantity4>
+ <Price4>3395</Price4>
+  <Product4>B</Product4>
+  <OrderType4>LMT</OrderType4>
+  
+ <TradingSymbol5>ASIANTILES-EQ</TradingSymbol5>
+ <ExchangeSegment5>NSE</ExchangeSegment5>
+ <Quantity5>1</Quantity5>
+ <Price5>6335</Price5>
+ <Product5>C</Product5>
+ <OrderType5>LMT</OrderType5>
+ 
+ <TradingSymbol6>ARIHANTCAP-EQ</TradingSymbol6>
+ <ExchangeSegment6>NSE</ExchangeSegment6>
+ <Quantity6>1</Quantity6>
+ <Price6>6360</Price6>
+ <Product6>F</Product6>
+ <OrderType6>LMT</OrderType6>
+ 
+ <TradingSymbol7>ZIMLAB-EQ</TradingSymbol7>
+ <ExchangeSegment7>NSE</ExchangeSegment7>
+ <Quantity7>1</Quantity7>
+ <Price7>9000</Price7>
+ <Product7>I</Product7>
+ <OrderType7>LMT</OrderType7>
+ 
+ <TradingSymbol8>EASEMYTRIP-EQ</TradingSymbol8>
+ <ExchangeSegment8>NSE</ExchangeSegment8>
+ <Quantity8>1</Quantity8>
+ <Price8>4700</Price8>
+ <Product8>M</Product8>
+ <OrderType8>LMT</OrderType8>
+ 
+ <TradingSymbol9>BSLNIFTY-EQ</TradingSymbol9>
+ <ExchangeSegment9>NSE</ExchangeSegment9>
+ <Quantity9>1</Quantity9>
+ <Price9>2456</Price9>
+ <Product9>B</Product9>
+ <OrderType9>LMT</OrderType9>
+ 
+ <TradingSymbol10>BSLGOLDETF-EQ</TradingSymbol10>
+ <ExchangeSegment10>NSE</ExchangeSegment10>
+ <Quantity10>1</Quantity10>
+ <Price10>5761</Price10>
+ <Product10>H</Product10>
+ <OrderType10>LMT</OrderType10>
+ 
+ <TradingSymbol11>IOB</TradingSymbol11>
+ <ExchangeSegment11>BSE</ExchangeSegment11>
+ <Quantity11>1</Quantity11>
+ <Price11>6929</Price11>
+ <Product11>C</Product11>
+ <OrderType11>LMT</OrderType11>
+ 
+ <TradingSymbol12>ITDCEM</TradingSymbol12>
+ <ExchangeSegment12>BSE</ExchangeSegment12>
+ <Quantity12>1</Quantity12>
+ <Price12>9500</Price12>
+ <Product12>8340</Product12>
+ <OrderType12>LMT</OrderType12>
+ 
+ <TradingSymbol13>JBMA</TradingSymbol13>
+ <ExchangeSegment13>BSE</ExchangeSegment13>
+ <Quantity13>1</Quantity13>
+ <Price13>8000</Price13>
+ <Product13>H</Product13>
+ <OrderType13>LMT</OrderType13>
+ 
+ <TradingSymbol14>KIOCL</TradingSymbol14>
+ <ExchangeSegment14>BSE</ExchangeSegment14>
+ <Quantity14>1</Quantity14>
+ <Price14>8500</Price14>
+ <Product14>M</Product14>
+ <OrderType14>LMT</OrderType14>
+ 
+ <TradingSymbol15>KSB</TradingSymbol15>
+ <ExchangeSegment15>BSE</ExchangeSegment15>
+ <Quantity15>1</Quantity15>
+  <Price15>9000</Price15>
+  <Product15>F</Product15>
+  <OrderType15>LMT</OrderType15>
+  
+ <TradingSymbol16>LAOPALA</TradingSymbol16>
+ <ExchangeSegment16>BSE</ExchangeSegment16>
+ <Quantity16>1</Quantity16>
+ <Price16>7000</Price16>
+ <Product16>M</Product16>
+ <OrderType16>LMT</OrderType16>
+ 
+ <TradingSymbol17>LT</TradingSymbol17>
+ <ExchangeSegment17>BSE</ExchangeSegment17>
+ <Quantity17>1</Quantity17>
+ <Price17>7550</Price17>
+ <Product17>B</Product17>
+ <OrderType17>LMT</OrderType17>
+ 
+ <TradingSymbol18>MSTCLTD</TradingSymbol18>
+ <ExchangeSegment18>BSE</ExchangeSegment18>
+ <Quantity18>1</Quantity18>
+ <Price18>6440</Price18>
+ <Product18>H</Product18>
+ <OrderType18>LMT</OrderType18>
+ 
+ <TradingSymbol19>NUVOCO</TradingSymbol19>
+ <ExchangeSegment19>BSE</ExchangeSegment19>
+ <Quantity19>1</Quantity19>
+ <Price19>7250</Price19>
+ <Product19>C</Product19>
+ <OrderType19>LMT</OrderType19>
+ 
+ <TradingSymbol20>ORIENTCEM</TradingSymbol20>
+ <ExchangeSegment20>BSE</ExchangeSegment20>
+ <Quantity20>1</Quantity20>
+ <Price20>5050</Price20>
+ <Product20>H</Product20>
+ <OrderType20>LMT</OrderType20>
+ 
+ <TradingSymbol21>BANKNIFTY27MAR24F</TradingSymbol21>
+ <ExchangeSegment21>NFO</ExchangeSegment21>
+ <Quantity21>1</Quantity21>
+ <Price21>6000</Price21>
+ <Product21>M</Product21>
+ <OrderType21>LMT</OrderType21>
+ 
+ <TradingSymbol22>FINNIFTY26MAR24F</TradingSymbol22>
+ <ExchangeSegment22>NFO</ExchangeSegment22>
+ <Quantity22>1</Quantity22>
+ <Price22>7020</Price22>
+ <Product22>I</Product22>
+ <OrderType22>LMT</OrderType22>
+ 
+ <TradingSymbol23>MIDCPNIFTY22MAR24F</TradingSymbol23>
+ <ExchangeSegment23>NFO</ExchangeSegment23>
+ <Quantity23>1</Quantity23>
+ <Price23>8010</Price23>
+ <Product23>F</Product23>
+ <OrderType23>LMT</OrderType23>
+ 
+ <TradingSymbol24>BATAINDIA28MAR24F</TradingSymbol24>
+ <ExchangeSegment24>NFO</ExchangeSegment24>
+ <Quantity24>1</Quantity24>
+ <Price24>9000</Price24>
+ <Product24>B</Product24>
+ <OrderType24>LMT</OrderType24>
+ 
+ <TradingSymbol25>CONCOR28MAR24F</TradingSymbol25>
+ <ExchangeSegment25>NFO</ExchangeSegment25>
+ <Quantity25>1</Quantity25>
+ <Price25>8560</Price25>
+ <Product25>M</Product25>
+ <OrderType25>LMT</OrderType25>
+ 
+ <TradingSymbol26>BANKNIFTY06MAR24C30000</TradingSymbol26>
+ <ExchangeSegment26>NFO</ExchangeSegment26>
+ <Quantity26>1</Quantity26>
+ <Price26>8810</Price26>
+ <Product26>I</Product26>
+ <OrderType26>LMT</OrderType26>
+ 
+ <TradingSymbol27>NIFTY07MAR24C18100</TradingSymbol27>
+ <ExchangeSegment27>NFO</ExchangeSegment27>
+ <Quantity27>1</Quantity27>
+ <Price27>9360</Price27>
+ <Product27>C</Product27>
+ <OrderType27>LMT</OrderType27>
+ 
+ <TradingSymbol28>FINNIFTY12MAR24C14900</TradingSymbol28>
+ <ExchangeSegment28>NFO</ExchangeSegment28>
+ <Quantity28>1</Quantity28>
+ <Price28>5250</Price28>
+ <Product28>M</Product28>
+ <OrderType28>LMT</OrderType28>
+ 
+ <TradingSymbol29>FEDERALBNK28MAR24C96</TradingSymbol29>
+ <ExchangeSegment29>NFO</ExchangeSegment29>
+ <Quantity29>1</Quantity29>
+ <Price29>4380</Price29>
+ <Product29>B</Product29>
+ <OrderType29>LMT</OrderType29>
+ 
+ <TradingSymbol30>MARICO28MAR24C495</TradingSymbol30>
+ <ExchangeSegment30>NFO</ExchangeSegment30>
+ <Quantity30>1</Quantity30>
+ <Price30>2785</Price30>
+ <Product30>H</Product30>
+ <OrderType30>LMT</OrderType30>
+
+
+ <TestCase>T1</TestCase>
+ 
+</root>
+ 
+  
